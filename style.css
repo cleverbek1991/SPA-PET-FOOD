@@ -1,0 +1,13 @@
+.newfood {
+	border: 1px solid black;
+}
+
+#container {
+	width: 80%;
+	margin: auto;
+}
+
+.food {
+	display: flex;
+	justify-content: space-around;
+}
